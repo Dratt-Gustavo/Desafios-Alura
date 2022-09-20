@@ -1,0 +1,36 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://cdn.dribbble.com/users/22930/screenshots/1923847/media/2c41c6759ebc80a273bb3761e45eb371.gif');
+  background-color: #48D1CC;
+  background-size: 80vh;
+  background-position:  center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center top;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color:#ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color:#ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}

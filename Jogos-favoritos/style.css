@@ -1,0 +1,106 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: center;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: orange;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: orange;
+  margin-top: 5px;
+}
+.h2 {
+  color: red;
+}
+
+.page-logo {
+  width: 200px;
+  animation: rgb linear 3s infinite;
+  transition: all 0.2s ease-out;
+}
+
+@keyframes rgb {
+  0% {
+    filter: hue-rotate(0deg);
+  }
+  100% {
+    filter: hue-rotate(360deg);
+  }
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+.game-img {
+  margin: 10px;
+  max-height: 250px;
+  border-radius: 10px;
+}
+
+.game-img:hover {
+  transform: scale(1.1);
+  transition: 1s all;
+  cursor: pointer;
+}
+
+.game-name {
+  text-decoration: underline;
+  color: orange;
+}
+
+.form-wrapper {
+  margin: 0 0 15px;
+}
+
+.form-wrapper input {
+  display: block;
+  margin: 0 auto;
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+.form-wrapper button {
+  border: 0;
+  color: white;
+  background: linear-gradient(45deg, orange, red, pink);
+  font-weight: bold;
+  padding: 10px 5px;
+  font-size: 16px;
+  border-radius: 8px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+  border: #da1e26 solid 2px;
+}
+
+.form-wrapper button:hover {
+  opacity: 0.8;
+  background: black;
+}
+
+body > img {
+  margin: 0 10 px;
+}

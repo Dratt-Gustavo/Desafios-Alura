@@ -1,0 +1,107 @@
+* {
+  text-align: center;
+}
+
+body {
+  font-family: "Roboto Mono", monospace;
+  background: url("http://pa1.narvii.com/6657/2e4e6d358f73846f0564874bed9c069acd72379e_00.gif");
+  background-repeat: no-repeat;
+  background-color: #111;
+  background-size: 100%;
+  background-position: cover ;
+  height: 200px;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: white;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+table {
+  margin: auto auto;
+  width: 800px;
+  border: 1px solid;
+  border-radius: 4px;
+  border-collapse: collapse;;
+
+}
+
+h1 {
+  color: white;
+}
+
+th,
+tr,
+td {
+  border: solid 2px white;
+  
+  color: white;
+}
+
+
+
+.form-wrapper button {
+  color: white;
+  background: #F4A460;
+  font-size: 15px;
+  font-weight: solid;
+  padding: 15px 50px;
+  margin-top: 30px;
+  border-radius: 5px;
+  transition 0.3s;
+  border: #F4A460 solid 3px; 
+
+   
+}
+.form-wrapper button:hover{
+   opacity: 0.8;
+  background: black;
+  cursor: pointer;
+}
+
+.form-wrapper input {
+  margin-right: 50px;
+  padding: 10px 15px;
+}
+
+
+.btn button {
+color: white;
+  background: #8B0000;
+  font-size: 15px;
+  font-weight: solid;
+  padding: 5px 5px;
+  margin-top: 30px;
+  border-radius: 5px;
+  transition 0.3s;
+  
+     
+}
+
+.btn button:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+  transition: 0.5s all;
+   }
