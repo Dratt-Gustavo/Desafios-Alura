@@ -1,4 +1,4 @@
 # AluraIndieGames
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/dratto/pen/VwxjYQL](https://codepen.io/dratto/pen/VwxjYQL).
+Uma Lista com meus jogos Indies favoritos. link do codepen: https://codepen.io/dratto/pen/VwxjYQL](https://codepen.io/dratto/pen/VwxjYQL
 
