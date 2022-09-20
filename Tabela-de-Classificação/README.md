@@ -1,4 +1,5 @@
 # Tabela de classificação
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/dratto/pen/ExLgxag](https://codepen.io/dratto/pen/ExLgxag).
+Uma tabela de classificação com tema em YugiOh, você pode adicionar mais personagens.
+link do codepen: https://codepen.io/dratto/pen/ExLgxag
 
